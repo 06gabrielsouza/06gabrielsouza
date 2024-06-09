@@ -1,16 +1,16 @@
-## Hi there 👋
+# Gabriel Souza
 
-<!--
-**06gabrielsouza/06gabrielsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+ Olá! tenho 18 anos e moro na cidade de Recife, PE. Sou formado como Tecnico em Redes de Computadores e curso Análise e Desenvolvimento de Sistemas. Atualmente estudo a linguagem Java e tenho conhecimentos de MySQL.
 
-Here are some ideas to get you started:
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-souza-795b3b28b)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabriel123.souza06@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estudando atualmente
+
+### Linguagens
+ ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Banco de dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
