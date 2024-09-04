@@ -1,7 +1,7 @@
 # Gabriel Souza
 
 ## Sobre mim
- Olá! tenho 18 anos e moro na cidade de Recife, PE. Sou formado como Tecnico em Redes de Computadores e curso Análise e Desenvolvimento de Sistemas. Atualmente estudo a linguagem Java e tenho conhecimentos de MySQL.
+Sou certificado como AWS Cloud Practitioner e curso Análise e Desenvolvimento de Sistemas na CESAR School. Durante meus estudos, aprofundei-me nas áreas de Cloud Computing e Back-end. Procuro uma oportunidade de estágio ou nível Júnior para aplicar e desenvolver minhas habilidades em tecnologias como AWS e Java, contribuindo para o crescimento da empresa e para meudesenvolvimento profissional
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-dev-souza)
