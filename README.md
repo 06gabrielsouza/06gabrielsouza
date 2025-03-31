@@ -18,6 +18,4 @@ Sou certificado como **AWS Cloud Practitioner** e atualmente curso **Análise e 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## ☁️ Cloud
-
-### AWS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
